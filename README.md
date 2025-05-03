@@ -44,6 +44,7 @@ Kalkulator-Sederhana/
 
   ```bash
   cd Kalkulator-Sederhana
+  ```
 
 3. **Jalankan** file index.html di browser favoritmu.
 
