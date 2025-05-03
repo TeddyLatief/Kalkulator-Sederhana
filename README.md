@@ -42,9 +42,9 @@ Kalkulator-Sederhana/
 
 2. **Masuk** ke Folder Proyek
 
-  ```bash
-  cd Kalkulator-Sederhana
-  ```
+   ```bash
+   cd Kalkulator-Sederhana
+   ```
 
 3. **Jalankan** file index.html di browser favoritmu.
 
