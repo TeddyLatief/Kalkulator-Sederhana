@@ -26,6 +26,7 @@ https://teddylatief.github.io/Kalkulator-Sederhana/
 ## 📁 Struktur Folder
 
 Kalkulator-Sederhana/
+
 ├── index.html # Halaman utama
 ├── style.css # Gaya tampilan
 ├── script.js # Logika kalkulator
