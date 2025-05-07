@@ -28,8 +28,11 @@ https://teddylatief.github.io/Kalkulator-Sederhana/
 Kalkulator-Sederhana/
 
 ├── index.html # Halaman utama
+
 ├── style.css # Gaya tampilan
+
 ├── script.js # Logika kalkulator
+
 └── README.md # Dokumentasi proyek
 
 
